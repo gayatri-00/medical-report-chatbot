@@ -1,0 +1,46 @@
+COMMUNITY HEALTH DIAGNOSTIC LABORATORIES
+Clinical Biochemistry & Endocrinology Section
+
+PATIENT LABORATORY ANALYSIS REPORT
+Patient: James Henderson | Age: 47 | Sex: M
+Specimen ID: LAB-2025-449102
+Collection Date: September 28, 2025
+Physician: Dr. Anita Patel, MD
+
+----------------------------------------------------------------------
+COMPREHENSIVE METABOLIC PANEL (CMP-14)
+----------------------------------------------------------------------
+Analyte                    Value     Units      Reference Range    Status
+Sodium                     141       mmol/L     135 - 145          NORMAL
+Potassium                  4.3       mmol/L     3.5 - 5.0          NORMAL
+Chloride                   102       mmol/L     96 - 106           NORMAL
+Carbon Dioxide (CO2)       25        mmol/L     22 - 29            NORMAL
+Blood Urea Nitrogen (BUN)  16        mg/dL      7 - 20             NORMAL
+Serum Creatinine           0.95      mg/dL      0.70 - 1.30        NORMAL
+eGFR (CKD-EPI)             98        mL/min/1.73m2  > 60           NORMAL
+BUN/Creatinine Ratio       16.8                 10.0 - 20.0        NORMAL
+Calcium                    9.4       mg/dL      8.6 - 10.2         NORMAL
+Total Protein              7.1       g/dL       6.0 - 8.3          NORMAL
+Albumin                    4.5       g/dL       3.5 - 5.0          NORMAL
+Total Bilirubin            0.7       mg/dL      0.2 - 1.2          NORMAL
+Alkaline Phosphatase (ALP) 68        U/L        44 - 121           NORMAL
+AST (SGOT)                 24        U/L        10 - 40            NORMAL
+ALT (SGPT)                 28        U/L        7 - 56             NORMAL
+
+----------------------------------------------------------------------
+THYROID FUNCTION PANEL
+----------------------------------------------------------------------
+Analyte                    Value     Units      Reference Range    Status
+Thyroid Stimulating Horm.  5.85      uIU/mL     0.45 - 4.50        HIGH (Subclinical Hypothyroidism)
+Free T4 (Thyroxine)        1.12      ng/dL      0.82 - 1.77        NORMAL
+Free T3 (Triiodothyronine) 3.1       pg/mL      2.0 - 4.4          NORMAL
+
+OBSERVATIONS:
+1. Renal and hepatic biochemistry profiles are completely unremarkable. Normal eGFR of 98 mL/min/1.73m2.
+2. Mild elevated TSH (5.85 uIU/mL) with normal Free T4 (1.12 ng/dL), compatible with mild subclinical hypothyroidism.
+
+RECOMMENDATIONS:
+- Repeat TSH and Free T4 in 6 to 8 weeks with Thyroid Peroxidase (TPO) antibodies.
+- Evaluate clinical symptoms (fatigue, cold intolerance, dry skin).
+
+Reported by: Dr. Anita Patel, MD

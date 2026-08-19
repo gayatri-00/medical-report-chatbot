@@ -1,0 +1,61 @@
+METROPOLITAN GENERAL HOSPITAL & CLINICAL LABORATORY
+100 Healthcare Parkway, Medical Plaza Suite 400
+Accreditation: CLIA #99D0876543 | CAP #1234567
+
+PATIENT INFORMATION:
+Patient Name: Eleanor Vance
+Patient ID / MRN: MRN-8849201
+Age: 52 Years | Gender: Female | DOB: 1974-03-12
+Date of Specimen Collection: October 14, 2025 (08:30 AM Fasting)
+Ordering Physician: Dr. Marcus Reed, MD (Internal Medicine)
+Report Status: Final Verified
+
+----------------------------------------------------------------------
+PANEL 1: COMPLETE BLOOD COUNT (CBC) WITH DIFFERENTIAL
+----------------------------------------------------------------------
+Test Name                  Result    Units        Reference Range    Flag
+Hemoglobin (Hb)            11.2      g/dL         12.0 - 15.5        LOW
+Hematocrit (Hct)           34.1      %            36.0 - 46.0        LOW
+RBC Count                  3.85      x10^6/uL     4.00 - 5.20        LOW
+MCV                        88.6      fL           80.0 - 100.0       NORMAL
+MCH                        29.1      pg           27.0 - 33.0        NORMAL
+MCHC                       32.8      g/dL         32.0 - 36.0        NORMAL
+RDW                        13.4      %            11.5 - 14.5        NORMAL
+White Blood Cell (WBC)     6.8       x10^3/uL     4.5 - 11.0         NORMAL
+Platelet Count             245       x10^3/uL     150 - 450          NORMAL
+
+Differential:
+Neutrophils (%)            58.2      %            40.0 - 70.0        NORMAL
+Lymphocytes (%)            31.4      %            20.0 - 40.0        NORMAL
+Monocytes (%)              6.9       %            2.0 - 8.0          NORMAL
+Eosinophils (%)            2.8       %            1.0 - 4.0          NORMAL
+Basophils (%)              0.7       %            0.0 - 2.0          NORMAL
+
+----------------------------------------------------------------------
+PANEL 2: FASTING LIPID & GLUCOSE PANEL
+----------------------------------------------------------------------
+Test Name                  Result    Units        Reference Range    Flag
+Fasting Blood Glucose      104       mg/dL        70 - 99            HIGH (Impaired Fasting Glucose)
+Total Cholesterol          238       mg/dL        < 200              HIGH
+Triglycerides              192       mg/dL        < 150              HIGH
+HDL Cholesterol            44        mg/dL        > 50 (Female)      LOW
+LDL Cholesterol (Calc)     156       mg/dL        < 100              HIGH
+Non-HDL Cholesterol        194       mg/dL        < 130              HIGH
+Cholesterol / HDL Ratio    5.41                   < 4.5              HIGH
+
+----------------------------------------------------------------------
+CLINICAL IMPRESSIONS & OBSERVATIONS:
+----------------------------------------------------------------------
+1. Mild normocytic, normochromic anemia (Hemoglobin 11.2 g/dL, Hematocrit 34.1%).
+2. Dyslipidemia characterized by elevated Total Cholesterol (238 mg/dL), elevated LDL (156 mg/dL), mild hypertriglyceridemia (192 mg/dL), and reduced HDL (44 mg/dL).
+3. Borderline fasting blood glucose of 104 mg/dL suggesting early impaired fasting glucose tolerance.
+
+RECOMMENDATIONS:
+- Dietary lifestyle modifications and recheck fasting lipid profile in 3 months.
+- Consider evaluation of iron studies (Serum Ferritin, Transferrin Saturation) and Vitamin B12 / Folate levels.
+- Hemoglobin A1c test recommended to assess glycemic control over past 90 days.
+
+Electronically signed by:
+Dr. Marcus Reed, MD
+Specialist in Internal Medicine
+Medical License: #MD-7729104

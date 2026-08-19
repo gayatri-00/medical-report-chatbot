@@ -1,0 +1,6 @@
+{
+  "name": "Medical Report Chatbot",
+  "description": "AI-powered medical report understanding using Retrieval-Augmented Generation (RAG) with Python, Streamlit, LangChain, FAISS, and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

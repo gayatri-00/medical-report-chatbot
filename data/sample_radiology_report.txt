@@ -1,0 +1,41 @@
+ST. JUDE REGIONAL MEDICAL CENTER - DEPARTMENT OF RADIOLOGY
+850 Lincoln Boulevard, Suite 200
+Department Phone: (555) 019-8234 | PACS Ref # RAD-2025-99214
+
+PATIENT DIAGNOSTIC RADIOLOGY REPORT
+Patient Name: Robert Chen
+DOB: 1968-11-04 (Age: 56) | Sex: Male
+Examination Date: November 12, 2025 (14:15 EST)
+Referring Physician: Dr. Sarah Jenkins, MD (Pulmonary Medicine)
+Exam: CT Chest without Intravenous Contrast
+Accession Number: ACC-883910
+
+CLINICAL INDICATION:
+56-year-old male with persistent dry cough for 6 weeks, mild dyspnea on moderate exertion, and 20 pack-year smoking history. Rule out focal pulmonary lesion, infection, or interstitial lung changes.
+
+TECHNIQUE:
+Contiguous volumetric axial helical computed tomography (CT) images obtained from the thoracic inlet through the adrenal glands without intravenous contrast administration. Multiplanar coronal and sagittal reconstructions were reformatted.
+
+COMPARISON:
+No prior chest computed tomography available for comparison. PA and lateral chest radiographs dated August 10, 2024.
+
+FINDINGS:
+1. Trachea and Airways: Trachea and central bronchi are widely patent without endobronchial lesion. Mild bronchial wall thickening noted bilaterally consistent with chronic airway irritation.
+2. Lungs and Pleura:
+   - Left Upper Lobe: Clear. No consolidation or mass.
+   - Right Middle Lobe: A tiny 3.2 mm well-circumscribed non-calcified solid subpleural pulmonary nodule in the right middle lobe (Series 3, Image 42).
+   - Basilar Segments: Mild dependent atelectasis noted in bilateral lung bases. No evidence of honeycombing, ground-glass opacities, or acute airspace consolidation.
+   - Pleura: No pleural effusion or pneumothorax identified.
+3. Mediastinum and Hila: Heart size is normal. Thoracic aorta is normal in caliber without aneurysm. No evidence of mediastinal or hilar lymphadenopathy by size criteria.
+4. Chest Wall and Bones: Visualized osseous structures are intact without aggressive lytic or blastic lesions. Mild degenerative changes along the mid-thoracic spine.
+5. Upper Abdomen: Visualized upper abdominal organs, including liver and adrenal glands, are unremarkable within non-contrast limitations.
+
+IMPRESSION:
+1. Solitary 3.2 mm non-calcified solid nodule in the right middle lobe. Per Fleischner Society 2017 Guidelines for low-to-intermediate risk category with nodule < 6 mm, routine CT follow-up is optional or may be considered in 12 months.
+2. Mild diffuse bronchial wall thickening without acute pneumonia or airspace consolidation.
+3. No mediastinal or hilar lymphadenopathy. No pleural effusion.
+
+Interpreting Radiologist:
+Dr. Elena Rostova, MD
+Board Certified Diagnostic Radiologist
+St. Jude Medical Center
